@@ -1,6 +1,6 @@
 /*
 
-Orginal Style from ethanschoonover.com/solarized (c) Jeremy Hull <sourdrums@gmail.com>
+Converted to Ayu Dark theme
 
 */
 
@@ -8,52 +8,52 @@ Orginal Style from ethanschoonover.com/solarized (c) Jeremy Hull <sourdrums@gmai
   display: block;
   overflow-x: auto;
   padding: 0.5em;
-  background: #002b36;
-  color: #839496;
+  background: #0A0E14; /* Ayu Dark background */
+  color: #B3B1AD; /* Ayu Dark foreground */
 }
 
 .hljs-comment,
 .hljs-quote {
-  color: #586e75;
+  color: #5C6773; /* Ayu Dark comment color */
 }
 
-/* Solarized Green */
+/* Ayu Dark Orange */
 .hljs-keyword,
 .hljs-selector-tag,
 .hljs-addition {
-  color: #859900;
+  color: #FF9940;
 }
 
-/* Solarized Cyan */
+/* Ayu Dark Green */
 .hljs-number,
 .hljs-string,
 .hljs-meta .hljs-meta-string,
 .hljs-literal,
 .hljs-doctag,
 .hljs-regexp {
-  color: #2aa198;
+  color: #BAE67E;
 }
 
-/* Solarized Blue */
+/* Ayu Dark Blue */
 .hljs-title,
 .hljs-section,
 .hljs-name,
 .hljs-selector-id,
 .hljs-selector-class {
-  color: #268bd2;
+  color: #36A3D9;
 }
 
-/* Solarized Yellow */
+/* Ayu Dark Yellow */
 .hljs-attribute,
 .hljs-attr,
 .hljs-variable,
 .hljs-template-variable,
 .hljs-class .hljs-title,
 .hljs-type {
-  color: #b58900;
+  color: #FFEE99;
 }
 
-/* Solarized Orange */
+/* Ayu Dark Red */
 .hljs-symbol,
 .hljs-bullet,
 .hljs-subst,
@@ -62,17 +62,17 @@ Orginal Style from ethanschoonover.com/solarized (c) Jeremy Hull <sourdrums@gmai
 .hljs-selector-attr,
 .hljs-selector-pseudo,
 .hljs-link {
-  color: #cb4b16;
+  color: #FF3333;
 }
 
-/* Solarized Red */
+/* Special cases, keeping similar to the original Ayu Dark emphasis */
 .hljs-built_in,
 .hljs-deletion {
-  color: #dc322f;
+  color: #F29718; /* Ayu Dark special variable color */
 }
 
 .hljs-formula {
-  background: #073642;
+  background: #1F2430; /* Ayu Dark darker background for contrast */
 }
 
 .hljs-emphasis {
