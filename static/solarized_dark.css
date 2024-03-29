@@ -1,27 +1,21 @@
-/*
-
-Converted to Ayu Dark theme
-
-*/
-
 .hljs {
   display: block;
   overflow-x: auto;
   padding: 0.5em;
   background: #0A0E14; /* Ayu Dark background */
-  color: #B3B1AD; /* Ayu Dark foreground */
+  color: #BFBDB6; /* Ayu Dark foreground */
 }
 
 .hljs-comment,
 .hljs-quote {
-  color: #5C6773; /* Ayu Dark comment color */
+  color: #ACB6BF; /* Ayu Dark comment color */
 }
 
 /* Ayu Dark Orange */
 .hljs-keyword,
 .hljs-selector-tag,
 .hljs-addition {
-  color: #FF9940;
+  color: #FF8F40;
 }
 
 /* Ayu Dark Green */
@@ -31,7 +25,7 @@ Converted to Ayu Dark theme
 .hljs-literal,
 .hljs-doctag,
 .hljs-regexp {
-  color: #BAE67E;
+  color: #AAD94C;
 }
 
 /* Ayu Dark Blue */
@@ -40,7 +34,7 @@ Converted to Ayu Dark theme
 .hljs-name,
 .hljs-selector-id,
 .hljs-selector-class {
-  color: #36A3D9;
+  color: #39BAE6;
 }
 
 /* Ayu Dark Yellow */
@@ -50,7 +44,7 @@ Converted to Ayu Dark theme
 .hljs-template-variable,
 .hljs-class .hljs-title,
 .hljs-type {
-  color: #FFEE99;
+  color: #E6B450;
 }
 
 /* Ayu Dark Red */
@@ -62,17 +56,17 @@ Converted to Ayu Dark theme
 .hljs-selector-attr,
 .hljs-selector-pseudo,
 .hljs-link {
-  color: #FF3333;
+  color: #D95757;
 }
 
 /* Special cases, keeping similar to the original Ayu Dark emphasis */
 .hljs-built_in,
 .hljs-deletion {
-  color: #F29718; /* Ayu Dark special variable color */
+  color: #E6B673; /* Ayu Dark special variable color */
 }
 
 .hljs-formula {
-  background: #1F2430; /* Ayu Dark darker background for contrast */
+  background: #131721; /* Ayu Dark darker background for contrast */
 }
 
 .hljs-emphasis {
