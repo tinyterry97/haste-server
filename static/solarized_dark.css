@@ -2,23 +2,21 @@
   display: block;
   overflow-x: auto;
   padding: 0.5em;
-  background: #15141b; /* Ayu Dark background */
-  color: #BFBDB6; /* Ayu Dark foreground */
+  background: #15141b;
+  color: #BFBDB6;
 }
 
 .hljs-comment,
 .hljs-quote {
-  color: #ACB6BF; /* Ayu Dark comment color */
+  color: #ACB6BF;
 }
 
-/* Ayu Dark Orange */
 .hljs-keyword,
 .hljs-selector-tag,
 .hljs-addition {
   color: #FF8F40;
 }
 
-/* Ayu Dark Green */
 .hljs-number,
 .hljs-string,
 .hljs-meta .hljs-meta-string,
@@ -28,7 +26,6 @@
   color: #AAD94C;
 }
 
-/* Ayu Dark Blue */
 .hljs-title,
 .hljs-section,
 .hljs-name,
@@ -37,7 +34,6 @@
   color: #39BAE6;
 }
 
-/* Ayu Dark Yellow */
 .hljs-attribute,
 .hljs-attr,
 .hljs-variable,
@@ -47,7 +43,6 @@
   color: #E6B450;
 }
 
-/* Ayu Dark Red */
 .hljs-symbol,
 .hljs-bullet,
 .hljs-subst,
@@ -59,14 +54,13 @@
   color: #D95757;
 }
 
-/* Special cases, keeping similar to the original Ayu Dark emphasis */
 .hljs-built_in,
 .hljs-deletion {
-  color: #E6B673; /* Ayu Dark special variable color */
+  color: #E6B673;
 }
 
 .hljs-formula {
-  background: #131721; /* Ayu Dark darker background for contrast */
+  background: #131721;
 }
 
 .hljs-emphasis {
